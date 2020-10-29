@@ -1,6 +1,7 @@
 form {
 
 margin: 0 auto;
+margin-top: 70px;
 width: 400px;
 padding: 1em;
 border: 1px solid;
@@ -12,5 +13,34 @@ h1{
 
 font-style: oblique;
 text-align: center;
+
+}
+
+p {
+
+font-size: 14px;
+text-align: center;
+justify-content: left;
+}
+
+.account-action{
+ justify-content: center;
+ margin-top: 20px;
+}
+
+.button {
+display: inline-block;  
+border-top: 10px;
+border-width: 60px;   
+border-radius: 1em;
+border-color: blue;
+
+}
+
+
+.TermsofService{
+
+  display: inline-block;
+  text-align: center;
 
 }
